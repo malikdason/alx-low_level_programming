@@ -1,6 +1,6 @@
 /*
  * File: 3-get_op_func.c
- * Author: Yovo Koffi Vianney
+ * Author: MD
  */
 #include "3-calc.h"
 
