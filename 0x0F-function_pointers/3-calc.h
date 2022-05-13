@@ -3,7 +3,7 @@
 
 /*
  * File: 3-calc.h
- * Author: Yovo Koffi Vianney
+ * Author: MD
  */
 
 #include <stdio.h>
