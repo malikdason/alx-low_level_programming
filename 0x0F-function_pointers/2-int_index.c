@@ -1,6 +1,6 @@
 /*
  * File: 1-init_dog.c
- * Author: Yovo Koffi Vianney
+ * Author: MD
  */
 #include "function_pointers.h"
 
