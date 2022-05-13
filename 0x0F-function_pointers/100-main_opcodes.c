@@ -1,6 +1,6 @@
 /*
  * File: 100-main_opcodes.c
- * Author: Yovo Koffi Vianney
+ * Author: MD
  */
 #include "function_pointers.h"
 
