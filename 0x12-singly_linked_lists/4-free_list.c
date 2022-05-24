@@ -1,6 +1,6 @@
 /*
  * File: 4-free_list.c
- * Author: Ukonu Divine Chisom
+ * Author: MD
  */
 
 #include "lists.h"
