@@ -1,6 +1,6 @@
 /*
  * File: 3-add_node_end.c
- * Author: Ukonu Divine Chisom
+ * Author: MD
  */
 
 #include "lists.h"
