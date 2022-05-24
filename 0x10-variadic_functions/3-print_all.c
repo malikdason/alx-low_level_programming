@@ -1,6 +1,6 @@
 /*
  * File: 3-print_all.c
- * Author: Yovo Koffi Vianney
+ * Author: MD
  */
 
 #include "variadic_functions.h"

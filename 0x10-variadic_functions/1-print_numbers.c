@@ -1,6 +1,6 @@
 /*
  * File: 1-print_numbers.c
- * Author: Yovo Koffi Vianney
+ * Author: MD
  */
 
 #include "variadic_functions.h"
