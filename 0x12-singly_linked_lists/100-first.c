@@ -1,6 +1,6 @@
 /*
  * File: 100-first.c
- * Author: Ukonu Divine Chisom
+ * Author: MD
  */
 
 #include <stdio.h>
