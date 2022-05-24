@@ -1,6 +1,6 @@
 /*
  * File: 1-list_len.c
- * Author: Ukonu Divine Chisom
+ * Author: MD
  */
 
 #include "lists.h"
