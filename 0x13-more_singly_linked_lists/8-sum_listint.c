@@ -1,6 +1,6 @@
 /*
  * File: 8-sum_listint.c
- * Author: Yovo Koffi Vianney
+ * Author: MD
  */
 
 #include "lists.h"
