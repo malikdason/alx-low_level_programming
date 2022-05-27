@@ -1,6 +1,6 @@
 /*
  * File: 101-print_listint_safe.c
- * Author: Yovo Koffi Vianney
+ * Author: MD
  */
 
 #include "lists.h"
