@@ -1,6 +1,6 @@
 /*
  * File: 10-delete_nodeint.c
- * Author: Yovo Koffi Vianney
+ * Author: MD
  */
 
 #include "lists.h"
