@@ -1,6 +1,6 @@
 /*
  * File: 102-free_listint_safe.c
- * Author: Yovo Koffi Vianney
+ * Author: MD
  */
 
 #include "lists.h"
