@@ -1,6 +1,6 @@
 /*
  * File: 100-reverse_listint.c
- * Author: Yovo Koffi Vianney
+ * Author: MD
  */
 
 #include "lists.h"
