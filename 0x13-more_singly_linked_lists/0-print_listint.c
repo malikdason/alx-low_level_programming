@@ -1,6 +1,6 @@
 /*
  * File: 0-print_listint.c
- * Author: Yovo Koffi Vianney
+ * Author: MD
  */
 
 #include "lists.h"
