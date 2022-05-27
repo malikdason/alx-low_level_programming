@@ -1,6 +1,6 @@
 /*
  * File: 103-find_loop.c
- * Author: Yovo Koffi Vianney
+ * Author: MD
  */
 
 #include "lists.h"
