@@ -1,6 +1,6 @@
 /*
  * File: 5-free_listint2.c
- * Author: Yovo, Koffi Vianney
+ * Author: MD
  */
 
 #include "lists.h"
