@@ -1,6 +1,6 @@
 /*
  * File: 1-listint_len.c
- * Auth: Yovo, Koffi Vianney
+ * Auth: MD
  */
 
 #include "lists.h"
