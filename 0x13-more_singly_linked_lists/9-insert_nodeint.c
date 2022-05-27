@@ -1,6 +1,6 @@
 /*
  * File: 9-insert_nodeint.c
- * Author: Yovo Koffi Vianney
+ * Author: MD
  */
 
 #include "lists.h"
