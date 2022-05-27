@@ -1,6 +1,6 @@
 /*
  * File: 6-pop_listint.c
- * Author: Yovo, Koffi Vianney
+ * Author: MD
  */
 
 #include "lists.h"
