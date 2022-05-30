@@ -1,6 +1,6 @@
 /*
  * File: 2-append_text_to_file.c
- * Author: Yovo, Koffi Vianney
+ * Author: MD
  */
 
 #include "main.h"
