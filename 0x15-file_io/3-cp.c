@@ -1,6 +1,6 @@
 /*
  * File: 3-cp.c
- * Author: Yovo, Koffi Vianney
+ * Author: MD
  */
 
 #include "main.h"
