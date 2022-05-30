@@ -1,6 +1,6 @@
 /*
  * File: 0-read_textfile.c
- * Yovo, Koffi Vianney
+ * Author: MD
  */
 
 #include "main.h"
