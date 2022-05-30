@@ -2,7 +2,7 @@
 
 /*
  * File: main.h
- * Author: Yovo, Koffi Vianney
+ * Author: MD
  * Desc: Header file containing prototypes for all functions
  *       written in the 0x15-file_io directory.
  */
