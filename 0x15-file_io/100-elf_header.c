@@ -1,6 +1,6 @@
 /*
  * File: 100-elf_header.c
- * Author: Yovo, Koffi Vianney
+ * Author: MD
  */
 
 #include <elf.h>
