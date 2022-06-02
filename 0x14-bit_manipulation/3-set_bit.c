@@ -1,6 +1,6 @@
 /*
  * File: 3-set_bit.c
- * Author: Yovo Koffi Vianney
+ * Author: MD
  */
 
 #include "main.h"
