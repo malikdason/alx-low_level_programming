@@ -1,6 +1,6 @@
 /*
  * File: 1-print_binary.c
- * Author: Yovo Koffi Vianney
+ * Author: MD
  */
 
 #include "main.h"
