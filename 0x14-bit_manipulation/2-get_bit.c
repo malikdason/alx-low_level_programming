@@ -1,6 +1,6 @@
 /*
  * File: 2-get_bit.c
- * Author: Yovo Koffi Vianney
+ * Author: MD
  */
 
 #include "main.h"
