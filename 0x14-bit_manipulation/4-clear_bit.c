@@ -1,6 +1,6 @@
 /*
  * File: 4-clear_bit.c
- * Author: Yovo, Koffi Vianney
+ * Author: MD
  */
 
 #include "main.h"
