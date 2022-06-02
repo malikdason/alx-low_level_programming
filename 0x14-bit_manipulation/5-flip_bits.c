@@ -1,6 +1,6 @@
 /*
  * File: 5-flip_bits.c
- * Author: Yovo Koffi Vianney
+ * Author: MD
  */
 
 #include "main.h"
