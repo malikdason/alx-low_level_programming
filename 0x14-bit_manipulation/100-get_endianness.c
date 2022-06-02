@@ -1,6 +1,6 @@
 /*
  * File: 100-get_endianness.c
- * Author: Yovo Koffi Vianney
+ * Author: MD
  */
 
 #include "main.h"
