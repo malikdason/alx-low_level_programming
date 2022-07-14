@@ -1,0 +1,1 @@
+direcotyr for dynamic libraries
